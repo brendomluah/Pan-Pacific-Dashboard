@@ -11,3 +11,8 @@ Level 2 of the dashboard displays the number of customers in different lifecycle
 <img width="557" alt="Level 2" src="https://github.com/user-attachments/assets/1f63e2d4-f6cc-44b0-ad98-1d0df0192abe" />
 
 ## Skills  
+1. Power BI
+2. Power Query
+3. SQL
+
+## Data Preparation / Cleaning  
