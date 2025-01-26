@@ -16,3 +16,5 @@ Level 2 of the dashboard displays the number of customers in different lifecycle
 3. SQL
 
 ## Data Preparation / Cleaning  
+### SQL
+Using Common Table Expressions (CTEs), the data is prepared by segmenting customers into different lifecycle stages, leveraging key attributes such as web behavior, booking history, and duration of stay.
