@@ -18,3 +18,5 @@ Level 2 of the dashboard displays the number of customers in different lifecycle
 ## Data Preparation / Cleaning  
 ### SQL
 Using Common Table Expressions (CTEs), the data is prepared by segmenting customers into different lifecycle stages, leveraging key attributes such as web behavior, booking history, and duration of stay.
+### Power Query
+The data is cleaned by removing duplicates and standardizing data types to ensure accuracy and consistency.
